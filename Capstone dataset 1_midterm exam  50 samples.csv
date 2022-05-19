@@ -1,0 +1,51 @@
+Student ID,Image ID,T_Bar Height,T_Bar character,Letter Size,Letter Size characteristic,Baseline,B_characteristic,Slant,S_characteristic,Grade,Letter grade,Pass no pass 60
+S1,I1,middle,moderate self-esteem,middle,normal desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",60.7,D-,P
+S2,I2,low,low self-esteem,small,prefers not to be noticed,ascending,optimistic,straight,"rational, and very independent emotionally and in work",75.8,C,P
+S3,I3,low,low self-esteem,middle,normal desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",48.55,F,NP
+S4,I4,middle,moderate self-esteem,middle,normal desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",60.2,D-,P
+S5,I5,high,high self-esteem,middle,normal desire to be noticed,ascending,optimistic,straight,"rational, and very independent emotionally and in work",43,F,NP
+S6,I6,low,low self-esteem,middle,normal desire to be noticed,descending,pessimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",75.65,C,P
+S7,I7,middle,moderate self-esteem,small,prefers not to be noticed,descending,pessimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",47.6,F,NP
+S8,I8,high,high self-esteem,large,high desire to be noticed,ascending,optimistic,extreme right,"impulsive and very expressive behavior, with a lack of self-control and low tolerance for frustration",36,F,NP
+S9,I9,middle,moderate self-esteem,middle,normal desire to be noticed,ascending,optimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",8.25,F,NP
+S10,I10,high,high self-esteem,large,high desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",59.7,F,P
+S11,I11,low,low self-esteem,middle,normal desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",21.7,F,NP
+S12,I12,high,high self-esteem,large,high desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",76.75,C+,P
+S13,I13,high,high self-esteem,large,high desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",60,D-,P
+S14,I14,high,high self-esteem,middle,normal desire to be noticed,straight,balanced,left,"reflective and independent, may have difficulty with expression and adaptation of emotions and sympathy",41.2,F,NP
+S15,I15,low,low self-esteem,small,prefers not to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",84.8,B,P
+S16,I16,high,high self-esteem,large,high desire to be noticed,straight,balanced,extreme left,"fear of the future, tendency towards rejection and defensiveness",85.1,B,P
+S17,I17,middle,moderate self-esteem,small,normal desire to be noticed,descending,pessimistic,straight,"rational, and very independent emotionally and in work",17.95,F,NP
+S18,I18,high,high self-esteem,large,high desire to be noticed,descending,pessimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",51.7,F,NP
+S19,I19,high,high self-esteem,middle,normal desire to be noticed,ascending,optimistic,straight,"rational, and very independent emotionally and in work",24.95,F,NP
+S20,I20,middle,moderate self-esteem,small,prefers not to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",49.85,F,NP
+S21,I21,middle,moderate self-esteem,large,high desire to be noticed,ascending,optimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",19.55,F,NP
+S22,I22,high,high self-esteem,small,prefers not to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",56.35,F,NP
+S23,I23,high,high self-esteem,small,prefers not to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",52.65,F,NP
+S24,I24,middle,moderate self-esteem,middle,normal desire to be noticed,ascending,optimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",67.95,D+,P
+S25,I25,low,low self-esteem,small,prefers not to be noticed,descending,pessimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",53.7,F,NP
+S26,I26,middle,moderate self-esteem,small,prefers not to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",47.55,F,NP
+S27,I27,low,low self-esteem,middle,normal desire to be noticed,descending,pessimistic,straight,"rational, and very independent emotionally and in work",56.45,F,NP
+S28,I28,low,low self-esteem,large,high desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",23.2,F,NP
+S29,I29,high,high self-esteem,middle,normal desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",43.75,F,NP
+S30,I30,low,low self-esteem,middle,normal desire to be noticed,ascending,optimistic,straight,"rational, and very independent emotionally and in work",53.95,F,NP
+S31,I31,middle,moderate self-esteem,small,prefers not to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",32.9,F,NP
+S32,I32,low,low self-esteem,middle,normal desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",38.35,F,NP
+S33,I33,middle,moderate self-esteem,small,prefers not to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",56.45,F,NP
+S34,I34,middle,moderate self-esteem,large,high desire to be noticed,descending,pessimistic,straight,"rational, and very independent emotionally and in work",34.35,F,NP
+S35,I35,high,high self-esteem,large,high desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",52.45,F,NP
+S36,I36,middle,moderate self-esteem,large,high desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",50.7,F,NP
+S37,I37,low,low self-esteem,small,prefers not to be noticed,ascending,optimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",60.2,D-,P
+S38,I38,middle,moderate self-esteem,small,prefers not to be noticed,descending,pessimistic,straight,"rational, and very independent emotionally and in work",37.85,F,NP
+S39,I39,middle,moderate self-esteem,middle,normal desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",41.95,F,NP
+S40,I40,high,high self-esteem,small,prefers not to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",62.8,D,P
+S41,I41,low,low self-esteem,middle,normal desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",46.2,F,NP
+S42,I42,middle,moderate self-esteem,large,high desire to be noticed,straight,balanced,left,"reflective and independent, may have difficulty with expression and adaptation of emotions and sympathy",74.65,C,P
+S43,I43,low,low self-esteem,large,high desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",32.3,F,NP
+S44,I44,middle,moderate self-esteem,large,high desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",33.35,F,NP
+S45,I45,middle,moderate self-esteem,middle,normal desire to be noticed,ascending,optimistic,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",32.85,F,NP
+S46,I46,middle,moderate self-esteem,large,high desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",56.35,F,NP
+S47,I47,middle,moderate self-esteem,middle,normal desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",30.4,F,NP
+S48,I48,middle,moderate self-esteem,small,prefers not to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",10,F,NP
+S49,I49,middle,moderate self-esteem,large,high desire to be noticed,straight,balanced,right,"expressiveness, freedom in thought and emotions, extrovertedness, and orientation towards the future",69.3,C-,P
+S50,I50,high,high self-esteem,middle,normal desire to be noticed,straight,balanced,straight,"rational, and very independent emotionally and in work",48.2,F,NP
